@@ -1,0 +1,30 @@
+{
+    "fixed": [
+        {
+            "amount": 2200.00,
+            "title": "Rent",
+            "category": "home",
+            "frequency": "monthly"
+        },
+        {
+            "amount": 260.00,
+            "title": "Auto Loan",
+            "category": "transportation",
+            "frequency": 26
+        }
+    ],
+    "variable": [
+        {
+            "amount": 200.00,
+            "title": "Utilities",
+            "category": "home",
+            "frequency": "monthly"
+        },
+        {
+            "amount": 1200.00,
+            "title": "Shared Credit Card",
+            "category": "needs",
+            "frequency": "monthly"
+        }
+    ]
+}
